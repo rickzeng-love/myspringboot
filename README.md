@@ -23,3 +23,5 @@ rabbitmq:
   username: 自己队列的用户名
   password: 自己队列的密码
 ```
+
+thllo
