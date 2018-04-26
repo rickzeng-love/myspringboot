@@ -24,4 +24,5 @@ rabbitmq:
   password: 自己队列的密码
 ```
 
-thllo
+thllo23
+sd
