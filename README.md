@@ -27,4 +27,4 @@ rabbitmq:
 thllo23
 sd
 t asd 
-hepick wold
+small wold
