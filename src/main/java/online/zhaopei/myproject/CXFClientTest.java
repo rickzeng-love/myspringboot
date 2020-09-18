@@ -15,6 +15,8 @@ public class CXFClientTest {
 		objects = client.invoke(opName, "111");
 		System.out.println(objects[0].getClass());
 		System.out.println(objects[0]);
+		System.out.println(111);
+
 	}
 
 }
